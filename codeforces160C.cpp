@@ -7,7 +7,6 @@ int main()
 {
     LL n,k;
     std::cin >> n >> k;
-    for(LL i = 1;i <= n;i++) std::cin >> num[i];
     std::sort(num + 1,num + n + 1);
 
     for(LL i = 1;i <= n;i++) same[i] = 1;
