@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/Cat-aiping/Learn_Git.git
+git pull --rebase origin master
+git add codeforces160C.cpp
+git commit -m 'test'
+git push --set-upstream origin master'
+git push
