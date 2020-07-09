@@ -1,2 +1,6 @@
-!src/
-!WebContent/
+# !src/
+# !WebContent/
+.settings/
+build/
+.classpath*
+.project*
