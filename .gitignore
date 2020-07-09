@@ -1,6 +1,6 @@
 # !src/
 # !WebContent/
-.settings/
+*settings/
 build/
 .classpath*
 .project*
