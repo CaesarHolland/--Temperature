@@ -15,4 +15,7 @@
   <servlet>
   	<servlet-name>two</servlet-name>
   </servlet>
+  <servlet>
+  	<servlet-name>three</servlet-name>
+  </servlet>
 </web-app>
