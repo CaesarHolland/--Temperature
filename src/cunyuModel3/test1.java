@@ -8,5 +8,5 @@ package cunyuModel3;
  *
  */
 public class test1 {
-	
+	System.out.print("hhh");
 }
