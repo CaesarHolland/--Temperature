@@ -20,4 +20,8 @@
         <url-pattern>/unitServlet</url-pattern>
     </servlet-mapping>
     
+    <servlet>
+    	<servlet-name>cunyu</servlet-name>
+    </servlet>
+    
 </web-app>
